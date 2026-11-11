@@ -1,0 +1,6 @@
+{
+  "name": "Chan's School",
+  "description": "찬스 스쿨(Chan's School) 공식 홈페이지 - 스스로 생각하고 미래를 이끄는 글로벌 혁신 배움터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
